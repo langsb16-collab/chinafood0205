@@ -1,0 +1,8 @@
+{
+  "name": "중국 식품 상점 0205",
+  "description": "Comprehensive platform to find Chinese-friendly offline shops in Korea (Food, Entertainment, Shopping, and Services) with multilingual support and AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
